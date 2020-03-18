@@ -10,7 +10,7 @@ The explain is on the blog [Visit Blog](https://blog.forgiveher.cn/categories/Ma
 
 # 目录结构 directory structure
 
-+ [k-Nearest Neighbour (k-近邻算法)](k-Nearest%20Neighbour)
++ [k-Nearest Neighbor (k-近邻算法)](k-Nearest%20Neighbor)
 
 
 即将更新
